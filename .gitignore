@@ -1,0 +1,11 @@
+# Dossier personnel, garde uniquement sur ce PC
+cutebot_explore/
+
+# Caches Python
+__pycache__/
+*.pyc
+
+# Sorties de colcon (au cas ou un build serait lance depuis ce dossier)
+build/
+install/
+log/
